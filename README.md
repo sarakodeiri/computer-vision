@@ -1,7 +1,7 @@
 # computer-vision
 My solutions to IUST's Computer Vision course, Fall 2020
-HW1: Intro to OpenCV
-HW2: Histogram
+#HW1: Intro to OpenCV
+#HW2: Histogram
 HW3: Convolutions
 HW4: Frequency Domain
 HW5: Edge Detection (Canny, Sobel, etc.)
